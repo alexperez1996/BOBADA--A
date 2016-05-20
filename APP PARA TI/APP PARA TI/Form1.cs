@@ -19,7 +19,7 @@ namespace APP_PARA_TI
 
         private void bPinchar_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("HOLA CABRONCETE JEJEJEJEJE");
+            MessageBox.Show("HOLA CABRONCETE JEJEJEJE");
         }
     }
 }
